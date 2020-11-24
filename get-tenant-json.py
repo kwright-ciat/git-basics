@@ -1,3 +1,5 @@
+''' Use JSON to communicate with the sandbox '''
+
 import json
 import requests
 import pprint
